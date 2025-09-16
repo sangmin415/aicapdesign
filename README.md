@@ -1,1 +1,1 @@
-# aicapdesign
+﻿# RF Capacitor Designer
