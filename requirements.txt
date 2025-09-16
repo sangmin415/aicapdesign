@@ -1,4 +1,4 @@
-﻿numpy
+numpy
 scipy
 matplotlib
 scikit-rf
